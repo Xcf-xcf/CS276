@@ -72,7 +72,7 @@ if __name__=='__main__':
             [sg.Text('Sigma of Gaussian Distribution to sample neighbor cameras:'),sg.Input(size=(5,1),default_text=str(sigma),key='sigma',enable_events=True)],
             [sg.Text('Choose Sample Density of Traditional Light Field Data rendered by Gaussian Splatting:'),sg.Combo(['Dense', 'Normal', 'Sparse'], 'Normal', key='DataType',enable_events=True)],
             [sg.Text('Camera Interpolation Method:'),sg.Combo(['Bilinear','Quadra-linear','Gaussian'],'Bilinear',key='Interpolation',enable_events=True)],
-            [sg.Text('Theta Gaussian Distance Weighted Func:'),sg.Input(size=(5,1),default_text=str(theta),key='theta',enable_events=True)]]
+            [sg.Text('Theta of Gaussian Distance Weighted Func:'),sg.Input(size=(5,1),default_text=str(theta),key='theta',enable_events=True)]]
 
     set_window = sg.Window('Set View', set_layout)
 
