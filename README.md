@@ -2,11 +2,11 @@
 Homeworks of Computational Photography 
 
 ## Homework 1
-[Report in Notion](https://resonant-cord-990.notion.site/Homework-1-3905a243997c4aea91a0028ee0da4c17?pvs=4)
-Train: [Data]()|[Model]()  
-Truck: [Data]()|[Model]()  
-playroom: [Data]()|[Model]()  
-drjohnson: [Data]()|[Model]() 
+[Report in Notion](https://resonant-cord-990.notion.site/Homework-1-3905a243997c4aea91a0028ee0da4c17?pvs=4)  
+Train: [Data](https://pan.baidu.com/s/1kWE7YoIfy-Aat27uUWrQhQ?pwd=pxjk)|[Model](https://pan.baidu.com/s/1z-X9xCxxh0t4g_8aL42k2Q?pwd=es6o)  
+Truck: [Data](https://pan.baidu.com/s/1kBqWoPyKrI_q0DordFBpWA?pwd=cs9u)|[Model](https://pan.baidu.com/s/1tJxjLAniqR_RK4mXeOJT0Q?pwd=nij9)  
+playroom: [Data](https://pan.baidu.com/s/1FqPjgswPdwTVd5x1p1G03Q?pwd=f4lw)|[Model](https://pan.baidu.com/s/1fCkgCTtYdFGfTutZQMfj1A?pwd=dmg3)  
+drjohnson: [Data](https://pan.baidu.com/s/1r4dTLnbWJlrURxK-bbfbog?pwd=wxjj)|[Model](https://pan.baidu.com/s/1XuoYrSSNJvROgqfeClIQVw?pwd=weya) 
 ### Usage
 1. Configure Environment
 In my project, I have used
