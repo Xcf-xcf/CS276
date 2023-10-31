@@ -1,4 +1,4 @@
-# CS276
+<img width="623" alt="gaussian_rendering" src="https://github.com/Xcf-xcf/CS276/assets/72844825/2589b66a-3c40-41ac-ab12-050addda9fa8"># CS276
 Homeworks of Computational Photography 
 
 ## Homework 1
@@ -30,7 +30,7 @@ pip install PySimpleGUI
 Then you should download my scripts and move them to your Gaussian Splatting path like this,
 ```sh
 cd ..
-git clone 
+git clone https://github.com/Xcf-xcf/CS276.git
 mv /CS276/Homework1/* /gaussian_splatting/
 cd gaussian_splatting
 ```
