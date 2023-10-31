@@ -1,4 +1,4 @@
-<img width="623" alt="gaussian_rendering" src="https://github.com/Xcf-xcf/CS276/assets/72844825/2589b66a-3c40-41ac-ab12-050addda9fa8"># CS276
+# CS276
 Homeworks of Computational Photography 
 
 ## Homework 1
@@ -57,3 +57,20 @@ After generation of datasets, you can run the UI to compare traditional light fi
 python compare_ui.py -m /path/to/the/model -s /path/to/the/train/data/of/Gaussian/Splatting -l /path/to/the/light/field/data
 ```
 Then you will see a small setting UI to change parameters and two showing UI to display the renderings of traditional light field and Guasian Splatting light field like these.
+- Set Window
+![image](main/Homework1/set_window.png)
+- Traditional Rendering Window
+![image](main/Homework1/traditional_window.png)
+- Gaussian Rendering Window
+![image](main/Homework1/gaussian_window.png)
+There are several parameters for traditional and gaussian splatting light field rendering such as,
+- `X coordinate`
+- `Y coordinate`
+- `Z coordinate`
+- `Focal Plane` which is depth of focal plane
+- `Aperture Size` which is the number of selected virtual cameras to interpolate
+- `Sigma of Gaussian Distribution to sample neighbor cameras` which controls the dispersion of sampling cameras in Gaussian Splatting light field
+- `Sample Density of Traditional Light Field Data rendered by Gaussian Splatting` which includes dense, normal and sparse three modes
+- `Camera Interpolation Method` which include bilinear, quadra-linear and Gaussian three modes
+- `Theta of Gaussian Distance Weighted Func` which controls the relationship between the distance changing between the target camera and its neighbors and weight changing of its neighbors 
+ 
