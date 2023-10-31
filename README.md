@@ -58,11 +58,11 @@ python compare_ui.py -m /path/to/the/model -s /path/to/the/train/data/of/Gaussia
 ```
 Then you will see a small setting UI to change parameters and two showing UI to display the renderings of traditional light field and Guasian Splatting light field like these.
 - Set Window
-![image](main/Homework1/set_window.png)
+![image](/CS276/Homework1/set_window.png)
 - Traditional Rendering Window
-![image](main/Homework1/traditional_window.png)
+![image](/CS276/Homework1/traditional_window.png)
 - Gaussian Rendering Window
-![image](main/Homework1/gaussian_window.png)
+![image](/CS276/Homework1/gaussian_window.png)
 There are several parameters for traditional and gaussian splatting light field rendering such as,
 - `X coordinate`
 - `Y coordinate`
