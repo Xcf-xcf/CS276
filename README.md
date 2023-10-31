@@ -6,7 +6,8 @@ Homeworks of Computational Photography
 Train: [Data](https://pan.baidu.com/s/1kWE7YoIfy-Aat27uUWrQhQ?pwd=pxjk)|[Model](https://pan.baidu.com/s/1z-X9xCxxh0t4g_8aL42k2Q?pwd=es6o)  
 Truck: [Data](https://pan.baidu.com/s/1kBqWoPyKrI_q0DordFBpWA?pwd=cs9u)|[Model](https://pan.baidu.com/s/1tJxjLAniqR_RK4mXeOJT0Q?pwd=nij9)  
 playroom: [Data](https://pan.baidu.com/s/1FqPjgswPdwTVd5x1p1G03Q?pwd=f4lw)|[Model](https://pan.baidu.com/s/1fCkgCTtYdFGfTutZQMfj1A?pwd=dmg3)  
-drjohnson: [Data](https://pan.baidu.com/s/1r4dTLnbWJlrURxK-bbfbog?pwd=wxjj)|[Model](https://pan.baidu.com/s/1XuoYrSSNJvROgqfeClIQVw?pwd=weya) 
+drjohnson: [Data](https://pan.baidu.com/s/1r4dTLnbWJlrURxK-bbfbog?pwd=wxjj)|[Model](https://pan.baidu.com/s/1XuoYrSSNJvROgqfeClIQVw?pwd=weya)  
+Each Data file contains source COLMAP data and my light field data while each model file contains the trained Gaussian Splatting model after 30000 iterations on its COLMAP data.
 ### Usage
 1. Configure Environment
 In my project, I have used
