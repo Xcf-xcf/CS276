@@ -12,14 +12,27 @@ In my project, I have used
 - Cmake 3.28.0
 in Windows x64 platform with RTX3060 GPU. 
 ```sh
-git clone
-cd CS276/Homework1
-conda env create -file environment.yml
+git clone --recursive https://github.com/graphdeco-inria/gaussian-splatting.git
+cd gaussian_splatting
+conda create -n gaussian_splatting python=3.10
 conda activate gaussian_splatting
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+pip install PySimpleGUI==4.60.5
+pip install tqdm
+pip install plyfile==0.8.1
+pip install -e submodules/diff-gaussian-rasterization/.
+pip install -e submodules/simple-knn/.
 ```
 Or you can configure the environment following the introduction in Gaussian Splatting and
 ```sh
 pip install PySimpleGUI
+```
+Then you should download my scripts and move them to your Gaussian Splatting path like this,
+```sh
+cd ..
+git clone 
+mv /CS276/Homework1/* /gaussian_splatting/
+cd gaussian_splatting
 ```
 2. Generate DataSets
 You can use my models to generate light field dataset like these,
