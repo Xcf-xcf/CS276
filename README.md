@@ -1,8 +1,8 @@
-[Report in Notion](https://resonant-cord-990.notion.site/Homework-1-3905a243997c4aea91a0028ee0da4c17?pvs=4)
 # CS276
 Homeworks of Computational Photography 
 
 ## Homework 1
+[Report in Notion](https://resonant-cord-990.notion.site/Homework-1-3905a243997c4aea91a0028ee0da4c17?pvs=4)
 ### Usage
 1. Configure Environment
 In my project, I have used
