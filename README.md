@@ -1,3 +1,4 @@
+[Report in Notion](https://resonant-cord-990.notion.site/Homework-1-3905a243997c4aea91a0028ee0da4c17?pvs=4)
 # CS276
 Homeworks of Computational Photography 
 
